@@ -1,3 +1,6 @@
+# SCORE ALL CONSULTING
+![](img/capa_readme.jpg)
+### Predicting Credit Score Classification
 # 1.0 Business Problem
 # 2.0 Planejamento da Solução
 ## 2.1 Inputs
@@ -12,6 +15,7 @@
 # 10.0 Lições Aprendidas
 # 11.0 Próximos Passos
 # 12.0 Status do Projeto
+![](img/project_status.jpg)
 # 13.0 Sumário
 * ID : Representa a identificação única da entrada
 * Customer_ID : Representa uma identificação única da pessoa
