@@ -40,7 +40,7 @@
 * Credit_Utilization_Ratio : Taxa de utilização do cartão de crédito
 * Credit_History_Age : Idade do histórico de crédito da pessoa
 * Payment_of_Min_Amount : Se apenas o valor mínimo foi pago pela pessoa
-* Total_EMI_per_month : Pagamentos mensais do EMI (em USD)
+* Total_EMI_per_month : Pagamentos mensais do EMI (EMI = valor principal + juros pagos sobre o empréstimo, em USD)
 * Amount_invested_monthly : Valor mensal investido pelo cliente (em USD)
 * Payment_Behaviour : Comportamento de pagamento do cliente (em USD)
 * Monthly_Balance : Valor do saldo mensal do cliente (em USD)
